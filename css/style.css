@@ -1,0 +1,74 @@
+body {
+    background-color: #414a61;
+    color: white;
+}
+
+.finance {
+    color: #FFF48C;
+}
+
+.future {
+    color: #EC7100
+}
+
+.espacamento {
+    margin-bottom: 3%;
+}
+
+#slogan {
+    font-size: 18px;
+}
+
+.centralizar {
+    align-items: center;
+}
+
+.logo {
+    margin-bottom: 3%;
+}
+
+.google-acesso {
+    font-size: 16px;
+    margin: 10%;
+    text-align: center;
+}
+
+.google-acesso-fonte, .botao-estilo {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.Cadastrar {
+    margin-top: 10%;
+}
+
+img {
+    margin-left: 42%;
+}
+
+h, main {
+    margin-left: 30%;
+}
+
+p, form, .google-acesso, {
+    margin-left: 40%;
+}
+
+.botao-estilo {
+    border-bottom: 20px;
+}
+
+.apresentacao {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    /* margin: 15%;
+    display: flex;
+    justify-content: space-between; */
+    padding: 10%;
+    border: 20%;
+}
